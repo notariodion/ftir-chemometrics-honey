@@ -1,0 +1,11 @@
+"","cane sugar","corn syrup","honey","honey-cane sugar","honey-corn syrup","UNK01","UNK02","UNK03","UNK04","UNK05"
+"cane sugar",3,0,0,0,0,0,0,0,0,0
+"corn syrup",0,2,0,0,0,0,0,0,1,0
+"honey",0,0,3,0,0,0,0,0,0,0
+"honey-cane sugar",0,0,0,8,0,2,0,0,0,0
+"honey-corn syrup",0,0,0,0,7,0,0,4,0,0
+"UNK01",0,0,0,0,0,3,0,0,0,0
+"UNK02",0,0,0,0,0,0,1,0,2,0
+"UNK03",0,0,0,0,0,0,0,3,0,0
+"UNK04",0,0,0,0,0,0,0,0,3,0
+"UNK05",0,0,0,0,0,0,0,0,0,3
